@@ -30,7 +30,31 @@ Tools are installed with [mise](https://mise.jdx.dev/):
 
 ```bash
 mise install
+uv sync
 ```
+
+Process every release that is not in `data/` yet (needs an authenticated
+[GitHub CLI](https://cli.github.com/), `gh auth login`):
+
+```bash
+uv run python -m pipeline.main
+```
+
+Run the tests:
+
+```bash
+uv run pytest
+```
+
+## Data files
+
+- `data/releases/<tag>.json`: per-service summary of one release. Counters
+  are `[passed, total]` behavioral tests; `control` / `data` split them by plane
+  (a test asserting on both planes counts in both).
+- `data/latest/catalog.json`: every service with an API model, flagged when it
+  has fidelity tests.
+- `data/latest/services/<slug>.json`: latest detail of one service: tests per
+  operation and the failing tests with their path in the evaluation suite.
 
 ## License
 

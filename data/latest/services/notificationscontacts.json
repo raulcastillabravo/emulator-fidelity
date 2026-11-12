@@ -1,0 +1,1 @@
+{"slug":"notificationscontacts","title":"AWS User Notifications Contacts","operations":{"ActivateEmailContact":[2,2],"CreateEmailContact":[20,20],"DeleteEmailContact":[20,20],"GetEmailContact":[10,10],"ListEmailContacts":[5,5],"ListTagsForResource":[7,7],"SendActivationCode":[2,2],"TagResource":[7,7],"UntagResource":[3,3]},"failing":[]}

@@ -1,0 +1,1 @@
+{"slug":"freetier","title":"AWS Free Tier","operations":{"GetAccountActivity":[5,5],"GetAccountPlanState":[12,12],"GetFreeTierUsage":[8,8],"ListAccountActivities":[9,9],"UpgradeAccountPlan":[3,3]},"failing":[]}

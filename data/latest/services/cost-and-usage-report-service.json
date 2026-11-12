@@ -1,0 +1,1 @@
+{"slug":"cost-and-usage-report-service","title":"AWS Cost and Usage Report Service","operations":{"DeleteReportDefinition":[6,6],"DescribeReportDefinitions":[3,3],"ListTagsForResource":[6,6],"ModifyReportDefinition":[1,1],"PutReportDefinition":[6,6],"TagResource":[6,6],"UntagResource":[2,2]},"failing":[]}

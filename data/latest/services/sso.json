@@ -1,0 +1,1 @@
+{"slug":"sso","title":"AWS Single Sign-On","operations":{"GetRoleCredentials":[6,6],"ListAccountRoles":[2,2],"ListAccounts":[8,8],"Logout":[3,3]},"failing":[]}

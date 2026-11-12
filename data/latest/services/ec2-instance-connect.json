@@ -1,0 +1,1 @@
+{"slug":"ec2-instance-connect","title":"AWS EC2 Instance Connect","operations":{"SendSSHPublicKey":[3,3],"SendSerialConsoleSSHPublicKey":[1,1]},"failing":[]}

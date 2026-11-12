@@ -1,0 +1,1 @@
+{"slug":"lex-runtime-v2","title":"Amazon Lex Runtime V2","operations":{"DeleteSession":[2,2],"GetSession":[10,10],"PutSession":[2,2],"RecognizeText":[13,13],"RecognizeUtterance":[1,1],"StartConversation":[0,0]},"failing":[]}

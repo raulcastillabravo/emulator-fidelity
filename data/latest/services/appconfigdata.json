@@ -1,0 +1,1 @@
+{"slug":"appconfigdata","title":"AWS AppConfig Data","operations":{"GetLatestConfiguration":[39,40],"StartConfigurationSession":[40,41]},"failing":[{"id":"appconfigdata.start-session-missing-permission-access-denied","path":"behavioral/appconfigdata/check_start_session_missing_permission_access_denied.py"}]}

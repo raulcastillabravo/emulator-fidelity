@@ -1,0 +1,1 @@
+{"slug":"geo-places","title":"Amazon Location Service Places V2","operations":{"Autocomplete":[3,3],"Geocode":[9,9],"GetPlace":[4,4],"ReverseGeocode":[3,3],"SearchNearby":[3,3],"SearchText":[4,4],"Suggest":[2,2]},"failing":[]}

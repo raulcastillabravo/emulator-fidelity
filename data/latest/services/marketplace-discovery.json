@@ -1,0 +1,1 @@
+{"slug":"marketplace-discovery","title":"AWS Marketplace Discovery","operations":{"GetListing":[18,18],"GetOffer":[6,6],"GetOfferSet":[0,0],"GetOfferTerms":[10,10],"GetProduct":[8,8],"ListFulfillmentOptions":[8,8],"ListPurchaseOptions":[14,14],"SearchFacets":[16,16],"SearchListings":[73,73]},"failing":[]}

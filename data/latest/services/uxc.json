@@ -1,0 +1,1 @@
+{"slug":"uxc","title":"AWS User Experience Customization","operations":{"GetAccountCustomizations":[15,16],"ListServices":[7,7],"UpdateAccountCustomizations":[15,16]},"failing":[{"id":"uxc.update-denied-without-iam-permission-rejected","path":"behavioral/uxc/check_update_denied_without_iam_permission_rejected.py"}]}

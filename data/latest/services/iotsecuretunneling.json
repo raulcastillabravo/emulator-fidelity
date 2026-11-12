@@ -1,0 +1,1 @@
+{"slug":"iotsecuretunneling","title":"AWS IoT Secure Tunneling","operations":{"CloseTunnel":[18,18],"DescribeTunnel":[13,13],"ListTagsForResource":[4,4],"ListTunnels":[3,3],"OpenTunnel":[18,18],"RotateTunnelAccessToken":[4,4],"TagResource":[3,3],"UntagResource":[1,1]},"failing":[]}

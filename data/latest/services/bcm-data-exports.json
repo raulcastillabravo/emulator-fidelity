@@ -1,0 +1,1 @@
+{"slug":"bcm-data-exports","title":"AWS Billing and Cost Management Data Exports","operations":{"CreateExport":[18,18],"DeleteExport":[18,18],"GetExecution":[1,1],"GetExport":[13,13],"GetTable":[2,2],"ListExecutions":[2,2],"ListExports":[7,7],"ListTables":[1,1],"ListTagsForResource":[3,3],"TagResource":[4,4],"UntagResource":[1,1],"UpdateExport":[2,2]},"failing":[]}

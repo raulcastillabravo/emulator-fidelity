@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Node
+node_modules/
+web/dist/
+web/.astro/
+
+# Pipeline downloads (never committed)
+.cache/
+
+# OS / editor
+.DS_Store
